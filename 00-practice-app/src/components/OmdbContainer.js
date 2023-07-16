@@ -23,7 +23,7 @@ const OmdbContainer = () => {
   // The empty optional array [] will cause the hook to only run one time after the component loads
   // Refer to https://reactjs.org/docs/hooks-effect.html#tip-optimizing-performance-by-skipping-effects
   useEffect(() => {
-    searchMovie('The Matrix');
+    searchMovie('Transformers: Rise of the Beasts');
   }, []);
 
   // Handler for input changes to the search form
