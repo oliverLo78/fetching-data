@@ -24,6 +24,12 @@ Work with a partner to resolve the following issue:
 
 * As a user, I want to be able to search for the name of a movie using a form on the right and then see the related information on the left.
 
+## Screenshot 
+
+![Screenshot 2023-07-16 150912](https://github.com/oliverLo78/fetching-data/assets/109435666/65a775c1-19ed-44de-bd86-ce592c529e14)
+
+* screenshot of the movie searched and the form on the right
+  
 ## Expected Behavior
 
 * When a user visits the page, the result for "The Matrix" should display on the left side of the page.
